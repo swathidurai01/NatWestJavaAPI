@@ -1,4 +1,4 @@
-Feature: Sample API Tests
+Feature: Sample API Tests scenarios
 
   Scenario: Verify Response Code and Format
     Given the API endpoint is accessible
